@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki3233"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki3233"/> -->
 
 <!--
 **Ki3233/Ki3233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
